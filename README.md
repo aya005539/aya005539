@@ -1,16 +1,33 @@
-## Hi there 👋
+# أهلاً بك! أنا أية مصري 👋
+### مهندسة أنظمة حاسوب ومطورة حلول برمجية 💻✨
 
-<!--
-**aya005539/aya005539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+خريجة هندسة أنظمة الحاسوب من الجامعة العربية الأمريكية في جنين، وأمتلك خبرة عملية في تطوير تطبيقات الويب، بناء قواعد البيانات، وأتمتة العمليات التقنية والتشغيلية.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ المهارات والتقنيات (Tech Stack)
+* **لغات البرمجة والتقنيات:** HTML, CSS, JavaScript, Python, PHP, Java.
+* **الأطر والمكتبات (Frameworks):** Laravel 9, Bootstrap, Flutter.
+* **قواعد البيانات والأدوات:** MySQL, Git, GitHub, Replit, Microsoft Access.
+
+---
+
+### 🚀 أبرز المشاريع والخبرات العملية (Featured Projects & Experience)
+
+#### 🍽️ [تطبيقات الويب وإدارة المطاعم - Axeliom Training]
+* **الوصف:** تصميم وتطوير تطبيق ويب متكامل لإدارة المطاعم ضمن فريق عمل باستخدام إطار العمل Laravel.
+* **التقنيات:** Laravel 9, MySQL, Bootstrap 5, JavaScript, HTML/CSS.
+
+#### 🌾 [أتمتة العمليات الزراعية - Haifa Agricultural]
+* **الوصف:** مشروع عملي لأتمتة الإجراءات الورقية المتكررة في عمليات إنتاج التمور باستخدام قواعد البيانات.
+* **الأدوات:** Microsoft Access.
+
+#### 📱 [مشاريع الويب وتطوير التطبيقات]
+* **الوصف:** تطوير واجهات وتطبيقات تفاعلية والتعامل مع قواعد البيانات بكفاءة عالية.
+
+---
+
+### 📬 التواصل معي
+* 📧 **البريد الإلكتروني:** aya005539@gmail.com
+* 📞 **رقم الهاتف:** 056-966-9156
+* 📍 **الموقع:** طوباس، عقابا
